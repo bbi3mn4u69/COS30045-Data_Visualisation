@@ -1,4 +1,4 @@
-# Front end coding web application with HTML5, Tailwinds and D3.js chart
+# Front end code based web application with HTML5, Tailwinds and D3.js chart
 
 ![Migration](home.png "Migration")
 ![Migration](sankey.png "Migration")
