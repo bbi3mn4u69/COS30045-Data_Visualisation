@@ -15,7 +15,7 @@ feature:
 * Reading json data type and data intergity checking
 * Selected country on heatmap
 * Extract and present different data respective to different usage and purpose of different map
-* Slide feature with data changing respectively
+* Slide feature under heatmap with data changing respectively
 
 
 access to the web application: 
